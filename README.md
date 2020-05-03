@@ -4,7 +4,7 @@ Clonar el repositorio.
 
 Crear entorno virtual.
 
-Crear en postgrSQL la base de datos "eight_queens_puzzle".
+Crear en postgreSQL la base de datos "eight_queens_puzzle".
 
 Abrir el script sql "create_table_soluciones.sql" en postgreSQL, en la base de datos creada en el paso anterior y ejecutarlo.
 
