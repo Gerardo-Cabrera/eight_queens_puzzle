@@ -2,11 +2,11 @@
 
 Clonar el repositorio.
 
-Crear entorno virtual.
-
 Crear en postgreSQL la base de datos "eight_queens_puzzle".
 
 Abrir el script sql "create_table_soluciones.sql" en postgreSQL, en la base de datos creada en el paso anterior y ejecutarlo.
+
+Crear entorno virtual.
 
 Ejecutar pip install requirements.txt.
 
