@@ -1,0 +1,4 @@
+virtualenvwrapper-win
+psycopg2
+SQLAlchemy
+pytest
