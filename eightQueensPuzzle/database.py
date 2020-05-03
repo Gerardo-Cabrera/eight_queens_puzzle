@@ -7,7 +7,7 @@ class Database():
     usr = 'postgres'
     passw = '12345678'
     serv = 'localhost'
-    db_name = 'prueba'
+    db_name = 'eight_queens_puzzle'
     url_db = 'postgresql://{user}:{password}@{server}/{database}'.format(user=usr, password=passw, server=serv, database=db_name)
     engine = db.create_engine(url_db)
 
