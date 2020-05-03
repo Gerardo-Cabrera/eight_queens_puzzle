@@ -1,7 +1,6 @@
-# eight_queens_puzzle
-Eight queens puzzle in python
+# Eight Queens Puzzle in python
 
-Clonar el repositorio.
+Clonar el repositorio. \n
 Crear entorno virtual.
 Ejecutar pip install requirements.txt.
 Ejecutar en la consola "pytest test_queens_puzzle.py"
